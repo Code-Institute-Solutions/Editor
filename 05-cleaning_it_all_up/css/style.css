@@ -34,18 +34,21 @@ nav a:hover {
 nav a:active {
   background-color: #fff;
   color: #444;
+  cursor: default;
 }
 
 h1 {
   text-align: center;
 }
 
+.row {
+    width: 100%;
+}
+
 .card {
     float: left;
-    width: 30%;
+    width: 15%;
     margin-left: 15%;
-    max-width: 260px;
-    min-width: 150px;
 }
 
 .card a {
