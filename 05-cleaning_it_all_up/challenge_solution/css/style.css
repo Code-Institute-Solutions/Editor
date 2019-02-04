@@ -30,11 +30,6 @@ nav a:hover {
   background-color: #fff;
   color: #4a4a4f;
 }
- 
-nav a:active {
-  background-color: #fff;
-  color: #444;
-}
 
 h1 {
   text-align: center;
